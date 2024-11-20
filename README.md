@@ -11,8 +11,7 @@
 
 - 💬 Ask me about **Software Development, Competitive Programming, Vedio Games, Movies etc.**
 <hr>
-- 📫 How to reach me
-  **amankhanna2022@gmail.com**
+- 📫 How to reach me **amankhanna2022@gmail.com**
 <hr>
 
 <h3 align="left">Connect with me:</h3>
