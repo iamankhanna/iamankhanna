@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">Hello from a tech enthusiast and a passionate software engineer with nearly 6+ years of professional experience in web development with both backend and frontend. I love to solve problems. I have a strong knowledge in Data Structures and Algorithms, combined with hands-on expertise in modern programming languages like Java, JavaScript, SprintBoot. My technical proficiency extends to developing high-performance, scalable applications using Java, Spring Boot, Angular.js, Azure. I also have handson experience in Devops for stting up Azure CICD pipelines using jenkins and GitHubActions.</h3>
+<h1 align="left">Hi 👋, I'm Aman</h1>
+<h3 align="left">Hello from a tech enthusiast and a passionate software engineer with nearly 6+ years of professional experience in web development with both backend and frontend. I love to solve problems. I have a strong knowledge in Data Structures and Algorithms, combined with hands-on expertise in modern programming languages like Java, JavaScript, SprintBoot. My technical proficiency extends to developing high-performance, scalable applications using Java, Spring Boot, Angular.js, Azure. I also have handson experience in Devops for stting up Azure CICD pipelines using jenkins and GitHubActions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamankhanna&label=Profile%20views&color=0e75b6&style=flat" alt="iamankhanna" /> </p>
 
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amankhanna017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amankhanna017" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amankhanna017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amankhanna017" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amankhanna017" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amankhanna017" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amankhanna017" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amankhanna017" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamankhanna&show_icons=true&locale=en&layout=compact" alt="iamankhanna" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamankhanna&show_icons=true&locale=en" alt="iamankhanna" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=iamankhanna&show_icons=true&locale=en" alt="iamankhanna" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamankhanna&" alt="iamankhanna" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iamankhanna&" alt="iamankhanna" /></p>
