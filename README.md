@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Aman</h1>
+<h1 align="center"> I am Aman Khanna 🚀</h1>
 <h3 align="left">Hello from a tech enthusiast and a passionate software engineer with nearly 6+ years of professional experience in web development with both backend and frontend. I love to solve problems. I have a strong knowledge in Data Structures & Algorithms and System Design. I combined with hands-on expertise in modern programming languages like Java, JavaScript, SprintBoot. My technical proficiency extends to developing high-performance, scalable applications using Java, Spring Boot, Angular.js, Azure. I also have handson experience in Devops for stting up CICD pipelines using jenkins and GitHubActions.</h3>
 
 <hr>
