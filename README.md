@@ -1,13 +1,17 @@
 <h1 align="left">Hi 👋, I'm Aman</h1>
 <h3 align="left">Hello from a tech enthusiast and a passionate software engineer with nearly 6+ years of professional experience in web development with both backend and frontend. I love to solve problems. I have a strong knowledge in Data Structures and Algorithms, combined with hands-on expertise in modern programming languages like Java, JavaScript, SprintBoot. My technical proficiency extends to developing high-performance, scalable applications using Java, Spring Boot, Angular.js, Azure. I also have handson experience in Devops for stting up Azure CICD pipelines using jenkins and GitHubActions.</h3>
 
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamankhanna&label=Profile%20views&color=0e75b6&style=flat" alt="iamankhanna" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamankhanna" alt="iamankhanna" /></a> </p>
 
 - 💬 Ask me about **Backend**
 
-- 📫 How to reach me **amankhanna017@gmail.com amankhanna2022@gmail.com**
+- 📫 How to reach me
+  **amankhanna017@gmail.com
+  **amankhanna2022@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
